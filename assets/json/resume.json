@@ -58,18 +58,7 @@
       "studyType": "PhD",
       "startDate": "2020-09-01",
       "endDate": "2024-10-27",
-      "courses": ["Global, viral and protein scale functional annotation tools for -omics and structural
-bioinformatics."]
-    },
-    {
-      "institution": "Newcastle University, Newcastle, UK",
-      "location": "Newcastle, UK",
-      "url": "https://www.newcastle.ac.uk/",
-      "area": "Bioinformatics",
-      "studyType": "PhD",
-      "startDate": "2020-09-01",
-      "endDate": "2024-10-27",
-      "courses": ["Global, viral and protein scale functional annotation tools for -omics and structural
+      "courses": ["Global, viral and protein scale functional annotation tools for \-omics and structural
 bioinformatics."]
     }
   ],
