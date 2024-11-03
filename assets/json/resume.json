@@ -1,24 +1,28 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Matthew Crown",
+    "label": "Bioinformatician/Computational Biologist",
     "image": "",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://m-crown.github.io",
+    "summary": "Computational biologist/bioinformatician with experience working in microbial informatics, protein structure and ligand interactions and ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "1 Acacia Road",
+      "postalCode": "NE10 0DU",
+      "city": "Gateshead",
+      "countryCode": "UK"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "m-crown",
+        "url": "https://github.com/m-crown"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "matthew-crown",
+        "url": "https://www.linkedin.com/in/matthew-crown/"
       }
     ]
   },
@@ -47,15 +51,26 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Northumbria University, Newcastle, UK",
+      "location": "Newcastle, UK",
+      "url": "https://www.northumbria.ac.uk/",
+      "area": "Bioinformatics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2020-09-01",
+      "endDate": "2024-10-27",
+      "courses": ["Global, viral and protein scale functional annotation tools for -omics and structural
+bioinformatics."]
+    },
+    {
+      "institution": "Newcastle University, Newcastle, UK",
+      "location": "Newcastle, UK",
+      "url": "https://www.newcastle.ac.uk/",
+      "area": "Bioinformatics",
+      "studyType": "PhD",
+      "startDate": "2020-09-01",
+      "endDate": "2024-10-27",
+      "courses": ["Global, viral and protein scale functional annotation tools for -omics and structural
+bioinformatics."]
     }
   ],
   "awards": [
@@ -65,50 +80,6 @@
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
