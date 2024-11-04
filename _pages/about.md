@@ -8,18 +8,17 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
-news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm a recently submitted PhD student at Northumbria University working in bioinformatics/computational biology. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At work, I'm interested in building tools and pipelines for structural and functional annotation of proteins, viruses and metadata (check out [my publications](/publications/) and [repositories](/repositories)).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Im currently looking for jobs in tech-bio or biotech companies, with a particular interest in protein engineering. I hope to work on projects that have a positive impact on society and the environment. If you think I could be a good fit for your team, please get [in touch](mailto:matthewcrown@hotmail.co.uk)!
+
+Outside of work, I enjoy running, bouldering and tinkering with tech, and I'm a big fan of coffee, football and Formula 1.
