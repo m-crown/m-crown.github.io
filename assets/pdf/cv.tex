@@ -1,0 +1,210 @@
+%-------------------------
+% Adapted from a template by Jake Gutierrez
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+
+\begin{center}
+    \textbf{\Huge \scshape Matthew Crown} \\ \vspace{4pt}
+    \small +44 7736 753863 $|$ \href{mailto:matthewcrown@hotmail.co.uk}{\underline{matthewcrown@hotmail.co.uk}} $|$ 
+    \href{https://m-crown.github.io}{\underline{m-crown.github.io}} $|$
+    \href{https://linkedin.com/in/matthew-crown}{\underline{linkedin.com/in/matthew-crown}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Northumbria University}{Newcastle, UK}
+      {PhD in Bioinformatics (submitted)}{Sep. 2020 -- Oct. 2024}
+      \resumeItemListStart
+        \resumeItem{Thesis Title: "Global, viral and protein scale functional annotation tools for -omics and structural bioinformatics.". See projects section for more information on projects developed during PhD.}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Newcastle University}{Newcastle, UK}
+      {BSc. (Hons) Biochemistry}{Sep. 2016 -- Jun. 2020}
+      \resumeItemListStart
+        \resumeItem{Dissertation title: “Proteomic analysis of the E3-ubiquitin ligase
+        DTX3L interactome”}
+        \resumeItem{Graduated with First Class Honours and awarded the Gus Lienhard Prize for Biochemistry.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Employment and Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Senior Research Assistant}{Newcastle, UK}
+      {COVID19 Sequencing Group, Northumbria University}{Oct. 2021 -- Sep. 2022}
+      \resumeItemListStart
+        \resumeItem{Part of the COVID19 Genomics Consortium (COG-UK) Sequencing efforts at Northumbria University and developed a novel structural and functional annotation tool for SARS-CoV-2 proteins (see Projects).}
+        \resumeItem{Undertook routine analysis of SARS-CoV-2 sequencing data as part of the sequencing efforts, including running and troubleshooting Nextflow pipelines, handling sensitive metadata linkage, and developing SOPs.}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Industrial Placement}{Stevenage, UK}
+      {Exploratory Biomarker Assay Group, GlaxoSmithKline}{Sep. 2018 -- Aug. 2019}
+      \resumeItemListStart
+        \resumeItem{1-year industrial placement. The focus of work was development and optimisation of assays to support preclinical/clinical safety and efficacy studies of large and small molecule drugs.}
+        \resumeItem{Utilised commercial immunoassay and flow cytometry platforms and performed downstream data analysis.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Research Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+        {\textbf{AlphaCognate} $|$ \emph{Python, GEMMI, Nextflow, Git}}{May. 2024 -- Present}
+        \resumeItemListStart
+          \resumeItem{Developed a tool for transplantation of cognate ligands to predicted protein structures, which integrates annotation data from ProCogGraph (see below) through a Snakemake pipeline, and uses the GEMMI package for structural superposition of predicted and known protein structures.}
+        \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{ProCogGraph} $|$ \emph{neo4j, Python, RDKit, Arpeggio, Nextflow, Git}}{Jan. 2023 -- Jun. 2024}
+          \resumeItemListStart
+            \resumeItem{Built a graph database (neo4j) of enzyme-ligand interactions and cognate ligand mapping.}
+            \resumeItem{The database is built using a Nextflow pipeline, and integrates chemoinformatics ligand similarity matching and protein contact analysis.}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{OMEinfo} $|$ \emph{Docker, Python, Rasterio, Rio-Cogeo, Git}}{Jan. 2023 -- Sep. 2023}
+          \resumeItemListStart
+            \resumeItem{Developed a metadata annotation tool to automatically and consistently annotate locations with geospatial features, which allows non-expert users to integrate specialist geospatial data formats (GeoTIFF) into their metadata.}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{SPEAR} $|$ \emph{Python, Snakemake, MUSCLE, Plotly, Bash, Git}}{Oct. 2021 -- Sep. 2022}
+          \resumeItemListStart
+            \resumeItem{Developed a pipeline for rapid structural and functional annotation of SARS-CoV-2 proteins, including antibody escape potential and conformational dynamics.}
+            \resumeItem{The tool includes a report feature which allows easy comprehension of complex structural/functional features of the virus for non-expert decision makers.}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+For a full list of publications, see my Google Scholar profile: \href{https://scholar.google.com/citations?user=b8OKEYcAAAAJ&hl=en&oi=ao}{\underline{Google Scholar}}
+
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Python, R, Bash, Cypher, HTML/CSS} \\
+     \textbf{Reproducible Workflow \& DevOps Tools}{: Snakemake, Nextflow, Git, Docker} \\
+     \textbf{Bioinformatics Tools}{: Biopython, GEMMI, RDKit, Pymol, } \\
+     \textbf{Generic Tools and Libraries}{: neo4j, pandas, NumPy, Matplotlib, scikit-learn}
+     
+    }}
+ \end{itemize}
+
+
+%-------------------------------------------
+%
+%-----------PERSONAL-----------
+\section{Personal Interests}
+\begin{flushleft}
+Outside of work, I am a keen runner, having recently completed my first Great North Run for charity. I also enjoy the physical challenge and problem solving of bouldering. Whilst my work focusses on bioinformatics, I also have a passion for technology and enjoy learning about and tinkering with the latest new hardware and software.
+\end{flushleft}
+
+%-------------------------------------------
+\end{document}
