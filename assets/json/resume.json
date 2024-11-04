@@ -3,10 +3,10 @@
     "name": "Matthew Crown",
     "label": "Bioinformatician/Computational Biologist",
     "image": "prof_pic.jpg",
-    "email": "matthewcrown@hotmail.co.u",
+    "email": "matthewcrown@hotmail.co.uk",
     "phone": "+44 7736 753863",
     "url": "https://m-crown.github.io",
-    "summary": "Computational biologist/bioinformatician with experience working in microbial informatics, protein structure and ligand interactions and ",
+    "summary": "Computational biologist/bioinformatician with experience working in protein structure, ligand interactions and microbial informatics.",
     "location": {
       "address": "1 Acacia Road",
       "postalCode": "NE10 0DU",
@@ -53,97 +53,122 @@
     {
       "name": "COVID19 Sequencing Group, Northumbria University",
       "position": "Senior Research Assistant",
-      "url": "https://example.com",
+      "url": "https://www.cogconsortium.uk/",
       "startDate": "2021-10-01",
       "endDate": "2022-08-31",
       "summary": "Part of the COVID19 Genomics Consortium (COG-UK) Sequencing efforts at Northumbria University and developed a novel structural and functional annotation tool for SARS-CoV-2 proteins (see Projects). Undertook routine analysis of SARS-CoV-2 sequencing data as part of the sequencing efforts, including running and troubleshooting Nextflow pipelines, handling sensitive metadata linkage, and developing SOPs.",
-      "highlights": ["Relativity"]
+      "highlights": ["Sequence Informatics", "Pipelines", "SARS-CoV-2"]
     },
     {
       "name": "Exploratory Biomarkers Group, GlaxoSmithKline",
       "position": "Industrial Placement Student",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "url": "https://gsk.com",
+      "startDate": "2018-09-01",
+      "endDate": "2019-08-31",
       "summary": "1-year industrial placement. The focus of work was development and optimisation of assays to support preclinical/clinical safety and efficacy studies of large and small molecule drugs. Utilised commercial immunoassay and flow cytometry platforms and performed downstream data analysis.",
-      "highlights": ["Relativity"]
+      "highlights": ["Flow Cytometry", "Immunoassay"]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "ProCogGraph: A graph-based mapping of cognate ligand domain interactions",
+      "publisher": "Bioinformatics Advances",
+      "releaseDate": "2024-10-22",
+      "url": "https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae161/7831455",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "OMEinfo: global geographic metadata for -omics experiments",
+      "publisher": "Bioinformatics Advances",
+      "releaseDate": "2024-02-24",
+      "url": "http://dx.doi.org/10.1093/bioadv/vbae025",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "SPEAR: Systematic ProtEin AnnotatoR",
+      "publisher": "Bioinformatics",
+      "releaseDate": "2022-06-13",
+      "url": "http://dx.doi.org/10.1093/bioinformatics/btac391",
+      "summary": ""
+    },
+    {
+      "name": "Bacterial Diversity in House Dust: Characterization of a Core Indoor Microbiome",
+      "publisher": "Front. Environ. Sci",
+      "releaseDate": "2021-11-23",
+      "url": "https://www.frontiersin.org/articles/10.3389/fenvs.2021.754657",
+      "summary": ""
+    },
+    {
+      "name": "Environmental microbiome in the home and daycare settings during the {COVID}-19 pandemic, and potential risk of non-communicable disease in children",
+      "publisher": "Environ. Microbiol. Rep.",
+      "releaseDate": "2024-01-12",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10866607/",
+      "summary": ""
     }
+
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming Languages",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "R",
+        "Cypher",
+        "Bash",
+        "HTML/CSS"
       ]
     },
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Reproducible Workflow and Devops Tools",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Snakemake",
+        "Nextflow",
+        "Git", 
+        "Docker"
       ]
     },
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Bioinformatics Tools and Packages",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Biopython", 
+        "GEMMI", 
+        "RDKit", 
+        "Pymol",
+        "+ many more"
+      ]
+    },
+    {
+      "name": "Generic Tools and Libraries",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "neo4j", 
+        "pandas", 
+        "NumPy", 
+        "Matplotlib",
+        "scikit-learn",
+        "+ many more"
       ]
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Sports",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Running",
+        "Bouldering"
+      ]
+    },
+    {
+      "name": "Other",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Coffee!",
+        "Formula 1",
+        "Football"
       ]
     }
   ]
