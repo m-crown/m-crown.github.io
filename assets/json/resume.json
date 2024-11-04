@@ -75,35 +75,35 @@
       "publisher": "Bioinformatics Advances",
       "releaseDate": "2024-10-22",
       "url": "https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbae161/7831455",
-      "summary": ""
+      "summary": "(first author) Developed a graph database of protein domain:ligand interactions, and used this to explore the types of interactions proteins have with their cognate (i.e. in vivo) ligands."
     },
     {
       "name": "OMEinfo: global geographic metadata for -omics experiments",
       "publisher": "Bioinformatics Advances",
       "releaseDate": "2024-02-24",
       "url": "http://dx.doi.org/10.1093/bioadv/vbae025",
-      "summary": ""
+      "summary": "(first author) Developed a tool for geospatial metadata annotation to provide globally consistent metadata, which I found to be inconsistent in some built-environment microbiome studies. OMEinfo has wide applicability to any studies which utilise location as a feature of interest."
     },
     {
       "name": "SPEAR: Systematic ProtEin AnnotatoR",
       "publisher": "Bioinformatics",
       "releaseDate": "2022-06-13",
       "url": "http://dx.doi.org/10.1093/bioinformatics/btac391",
-      "summary": ""
+      "summary": "(first author) Developed a tool for structural and functional annotation of all proteins in the SARS-CoV-2 genome, to assist in identification of potentially important variants at point of sequencing."
     },
     {
       "name": "Bacterial Diversity in House Dust: Characterization of a Core Indoor Microbiome",
       "publisher": "Front. Environ. Sci",
       "releaseDate": "2021-11-23",
       "url": "https://www.frontiersin.org/articles/10.3389/fenvs.2021.754657",
-      "summary": ""
+      "summary": "(co-author) I performed data analysis of 16S built-environment microbiome samples, using Kraken2 for taxonomic annotation and various R packages for statistical analysis of results."
     },
     {
       "name": "Environmental microbiome in the home and daycare settings during the {COVID}-19 pandemic, and potential risk of non-communicable disease in children",
       "publisher": "Environ. Microbiol. Rep.",
       "releaseDate": "2024-01-12",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10866607/",
-      "summary": ""
+      "summary": "(co-author) I performed data analysis of 16S built-environment microbiome samples, using Kraken2 for taxonomic annotation and various R packages for statistical analysis of results."
     }
 
   ],
