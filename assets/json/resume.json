@@ -137,6 +137,7 @@
         "GEMMI", 
         "RDKit", 
         "Pymol",
+        "minimap2",
         "+ many more"
       ]
     },
@@ -167,6 +168,7 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Coffee!",
+        "Cooking",
         "Formula 1",
         "Football"
       ]
