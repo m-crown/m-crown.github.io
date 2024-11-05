@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.10.30)  4 NOV 2024 09:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.10.30)  5 NOV 2024 10:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -321,9 +321,9 @@ Here is how much of TeX's memory you used:
  0 hyphenation exceptions out of 8191
  75i,11n,79p,417b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/matthewcrown/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmbx10.pk> </Users/matthewcrown/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmsy6.pk> </Users/matthewcrown/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmti10.pk> </Users/matthewcrown/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi657/cmr10.pk> </Users/matthewcrown/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi657/cmbx10.pk> </Users/matthewcrown/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi720/cmcsc10.pk> </Users/matthewcrown/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmsy10.pk> </Users/matthewcrown/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmr10.pk> </Users/matthewcrown/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/public/cm/dpi1244/cmbx12.pk>
-Output written on cv.pdf (1 page, 103640 bytes).
+Output written on cv.pdf (1 page, 103328 bytes).
 PDF statistics:
- 347 PDF objects out of 1000 (max. 8388607)
+ 346 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
