@@ -11,3 +11,9 @@ assets/libs/
 node_modules/
 vendor
 .idea
+assets/pdf/cv.log
+assets/pdf/cv.synctex.gz
+assets/pdf/cv_de.aux
+assets/pdf/cv_de.out
+assets/pdf/cv_de.synctex.gz
+assets/pdf/cv.synctex.gz
